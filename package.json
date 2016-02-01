@@ -1,0 +1,15 @@
+{
+  "name": "nw-uploader",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.11.2",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-jsdoc": "^0.6.7",
+    "grunt-node-webkit-builder": "^1.0.2",
+    "grunt-contrib-copy":"~0.8.2",
+    "grunt-contrib-clean":"~0.6.0",
+    "innosetup-compiler": "^5.5.61",
+    "grunt-cli": "^0.1.13"
+  }
+}

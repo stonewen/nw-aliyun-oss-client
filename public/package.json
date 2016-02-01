@@ -1,0 +1,14 @@
+{
+  "name": "nw",
+  "version": "0.1.0",
+  "main": "login.html",
+  "window": {
+    "title": "学知课堂云盘",
+    "icon": "favicon.png",
+    "toolbar": false,
+    "frame": false,
+    "width": 400,
+    "height": 585,
+    "resizable": false
+  }
+}
